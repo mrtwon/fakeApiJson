@@ -6,20 +6,20 @@
     "discount": "50",
     "images":[
         {
-            "fullImage": "https://ibb.co/Q9hHYLM",
-            "miniImage": "https://ibb.co/D7NwgH3"
+            "fullImage": "https://i.ibb.co/v1fdLpk/image-product-3.jpg",
+            "miniImage": "https://i.ibb.co/wKTprFD/image-product-2-thumbnail.jpg"
         },
         {
-            "fullImage": "https://ibb.co/YkKd4ZH",
-            "miniImage": "https://ibb.co/fxFgB9y"
+            "fullImage": "https://i.ibb.co/VShC0mf/image-product-4.jpg",
+            "miniImage": "https://i.ibb.co/P6jL3MP/image-product-3-thumbnail.jpg"
         },
         {
-            "fullImage": "https://ibb.co/vBJ3rYR",
-            "miniImage": "https://ibb.co/WsbHwRC"
+            "fullImage": "https://i.ibb.co/0XfCWtv/image-product-1.jpg",
+            "miniImage": "https://i.ibb.co/FnShMdp/image-product-4-thumbnail.jpg"
         },
         {
-            "fullImage": "https://ibb.co/pQzbDdR",
-            "miniImage": "https://ibb.co/G3gmGh9"
+            "fullImage": "https://i.ibb.co/qCs7GpW/image-product-2.jpg",
+            "miniImage": "https://i.ibb.co/mFQpdx0/image-product-1-thumbnail.jpg"
         }
     ]
 }
